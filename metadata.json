@@ -1,0 +1,10 @@
+
+{
+  "name": "Peperr - Spicy Social Club",
+  "description": "The elite social club for high-intensity short videos. Features the unique Spice Meter and AI-powered vibes.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
